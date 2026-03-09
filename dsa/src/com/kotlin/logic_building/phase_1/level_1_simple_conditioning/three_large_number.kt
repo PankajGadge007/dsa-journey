@@ -1,4 +1,4 @@
-package com.kotlin.logic_building.phase_1.level_1.simple_conditioning
+package com.kotlin.logic_building.phase_1.level_1_simple_conditioning
 
 fun main() {
     threeLargeNumber(arrayOf(1,2,3))
