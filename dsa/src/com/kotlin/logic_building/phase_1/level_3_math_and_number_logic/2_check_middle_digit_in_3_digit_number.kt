@@ -12,8 +12,8 @@ fun checkMiddleDistinct(num: Int) {
     val mid = (num / 10) % 10
     val last = num % 10
     when {
-        mid > first && mid > last -> println("Middle is Largest")
-        mid < first && mid < last -> println("Middle is Smallest")
+        mid > first && mid > last -> println("Middle is Largest.")
+        mid < first && mid < last -> println("Middle is Smallest.")
         else -> println("Neither")
     }
 }
