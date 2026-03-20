@@ -2,8 +2,8 @@ package com.kotlin.logic_building.phase_1.level_4_logical_operators_and_compound
 
 fun main() {
     val num = 7
-    val num2 = 14
     digitInWord(num)
+    val num2 = 14
     digitInWord(num2)
 }
 

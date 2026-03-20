@@ -10,10 +10,10 @@ fun main() {
 
 fun checkDayType(day: Int) {
     if (day in 1..5) {
-        println("It's weekday")
+        println("It's weekday.")
     } else if (day in 6..7) {
         println("It's weekend!")
     } else {
-        println("Invalid day nmber")
+        println("Invalid day number.")
     }
 }
